@@ -1,4 +1,3 @@
-
 <p><img align="center" alat="gif" src="https://github.com/IrwanZamroni/IrwanZamroni/blob/main/4NjS.gif" width="1000"  /><p>
 <h1 align="center">Hi 👋, I'm Roni</h1>
 
