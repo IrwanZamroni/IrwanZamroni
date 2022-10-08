@@ -5,7 +5,7 @@
 <h3 align="center">A passionate computer vision from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irwanzamroni&label=Profile%20views&color=0e75b6&style=flat" alt="irwanzamroni" /> </p>
-<p><img align="right" alat="gif" src="https://github.com/IrwanZamroni/IrwanZamroni/blob/main/gyu.gif" width="400" height="320" /><p>
+
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Front End Developer, Robotic Process Automation**
 
 - 💬 Ask me about **Machine Learning**
